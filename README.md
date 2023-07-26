@@ -1,2 +1,2 @@
-# Traffic Sign Recognition with Deep Neural Network
+# Multi-layer Percepteron (MLP)
 This project implements a deep neural network to recognize German traffic signs in color images. The dataset, an extended GTSRB subset, contains around 400 images from each class. The neural network architecture comprises two hidden layers with 100 neurons each and an output layer with 2 neurons for binary classification. The model is trained with SGD as the optimizer and binary cross-entropy loss for 10 epochs. The code provides accuracy and loss graphs to evaluate the model's performance.
